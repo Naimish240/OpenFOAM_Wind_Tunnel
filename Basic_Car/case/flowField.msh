@@ -7,7 +7,7 @@ $PhysicalNames
 2 36 "outlet"
 2 37 "wall"
 2 38 "car"
-3 34 "field"
+3 34 "flow_field"
 $EndPhysicalNames
 $Nodes
 7412

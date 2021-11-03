@@ -17,7 +17,7 @@ FoamFile
 
 1
 (
-field
+flow_field
 {
     type cellZone;
 cellLabels      List<label> 
